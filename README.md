@@ -1,4 +1,4 @@
-# Zepto Sentiment Analysis System 🚀
+# Zepto Sentiment Analysis System 
 
 A complete end-to-end AI system for analyzing customer sentiment from Zepto reviews.
 
@@ -53,3 +53,4 @@ A complete end-to-end AI system for analyzing customer sentiment from Zepto revi
 - `POST /analyze`: Analyze a single text string.
 - `POST /upload_csv`: Upload a CSV file with a `text` column.
 - `GET /insights`: Get aggregated stats and recommendations.
+
